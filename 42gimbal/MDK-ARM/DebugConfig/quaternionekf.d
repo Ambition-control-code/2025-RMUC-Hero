@@ -1,0 +1,12 @@
+.\debugconfig\quaternionekf.o: ..\bucket\kalman_fliter\QuaternionEKF.c
+.\debugconfig\quaternionekf.o: ..\bucket\kalman_fliter\QuaternionEKF.h
+.\debugconfig\quaternionekf.o: ..\bucket\kalman_fliter\kalman_filter.h
+.\debugconfig\quaternionekf.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\debugconfig\quaternionekf.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\debugconfig\quaternionekf.o: ../DSP/Include/arm_math.h
+.\debugconfig\quaternionekf.o: ../Drivers/CMSIS/Include/core_cm4.h
+.\debugconfig\quaternionekf.o: ../Drivers/CMSIS/Include/cmsis_version.h
+.\debugconfig\quaternionekf.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+.\debugconfig\quaternionekf.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+.\debugconfig\quaternionekf.o: D:\Keil5\ARM\ARMCC\Bin\..\include\string.h
+.\debugconfig\quaternionekf.o: D:\Keil5\ARM\ARMCC\Bin\..\include\math.h

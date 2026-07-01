@@ -1,0 +1,12 @@
+running_away_with_a_bucket_3.0\ahrs_middleware.o: ..\HARDWARE\AHRS_middleware.c
+running_away_with_a_bucket_3.0\ahrs_middleware.o: ..\HARDWARE\AHRS_MiddleWare.h
+running_away_with_a_bucket_3.0\ahrs_middleware.o: ..\HARDWARE\AHRS.h
+running_away_with_a_bucket_3.0\ahrs_middleware.o: ../DSP/Include/arm_math.h
+running_away_with_a_bucket_3.0\ahrs_middleware.o: ../Drivers/CMSIS/Include/core_cm4.h
+running_away_with_a_bucket_3.0\ahrs_middleware.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+running_away_with_a_bucket_3.0\ahrs_middleware.o: ../Drivers/CMSIS/Include/cmsis_version.h
+running_away_with_a_bucket_3.0\ahrs_middleware.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+running_away_with_a_bucket_3.0\ahrs_middleware.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+running_away_with_a_bucket_3.0\ahrs_middleware.o: D:\keil5\ARM\ARMCC\Bin\..\include\string.h
+running_away_with_a_bucket_3.0\ahrs_middleware.o: D:\keil5\ARM\ARMCC\Bin\..\include\math.h
+running_away_with_a_bucket_3.0\ahrs_middleware.o: ../HARDWARE/IMU/struct_typedef.h

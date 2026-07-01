@@ -1,0 +1,14 @@
+running_away_with_a_bucket_3.0\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c
+running_away_with_a_bucket_3.0\stream_buffer.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+running_away_with_a_bucket_3.0\stream_buffer.o: D:\keil5\ARM\ARMCC\Bin\..\include\string.h
+running_away_with_a_bucket_3.0\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+running_away_with_a_bucket_3.0\stream_buffer.o: D:\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+running_away_with_a_bucket_3.0\stream_buffer.o: ../Core/Inc/FreeRTOSConfig.h
+running_away_with_a_bucket_3.0\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+running_away_with_a_bucket_3.0\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+running_away_with_a_bucket_3.0\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+running_away_with_a_bucket_3.0\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+running_away_with_a_bucket_3.0\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+running_away_with_a_bucket_3.0\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+running_away_with_a_bucket_3.0\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+running_away_with_a_bucket_3.0\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/stream_buffer.h

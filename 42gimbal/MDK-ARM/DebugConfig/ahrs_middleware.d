@@ -1,0 +1,12 @@
+.\debugconfig\ahrs_middleware.o: ..\HARDWARE\AHRS_middleware.c
+.\debugconfig\ahrs_middleware.o: ..\HARDWARE\AHRS_MiddleWare.h
+.\debugconfig\ahrs_middleware.o: ..\HARDWARE\AHRS.h
+.\debugconfig\ahrs_middleware.o: ../DSP/Include/arm_math.h
+.\debugconfig\ahrs_middleware.o: ../Drivers/CMSIS/Include/core_cm4.h
+.\debugconfig\ahrs_middleware.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\debugconfig\ahrs_middleware.o: ../Drivers/CMSIS/Include/cmsis_version.h
+.\debugconfig\ahrs_middleware.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+.\debugconfig\ahrs_middleware.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+.\debugconfig\ahrs_middleware.o: D:\Keil5\ARM\ARMCC\Bin\..\include\string.h
+.\debugconfig\ahrs_middleware.o: D:\Keil5\ARM\ARMCC\Bin\..\include\math.h
+.\debugconfig\ahrs_middleware.o: ../HARDWARE/IMU/struct_typedef.h
